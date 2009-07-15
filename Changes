@@ -1,0 +1,6 @@
+Revision history for Perl extension Text::CSV_Multiline.
+
+0.01  Fri Jul 13 15:09:45 2007
+	- original version; created by h2xs 1.23 with options
+		-X -n Text::CSV_Multiline
+
