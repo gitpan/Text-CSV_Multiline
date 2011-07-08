@@ -5,7 +5,7 @@ use ExtUtils::MakeMaker;
 # the contents of the Makefile that is written.
 WriteMakefile(
 	NAME              => 'Text::CSV_Multiline',
-	VERSION_FROM      => 'lib/Text/CSV_Multiline.pm', # finds $VERSION
+	VERSION           => '0.02',
 	PREREQ_PM         => {}, # e.g., Module::Name => 1.1
 	ABSTRACT_FROM  => 'lib/Text/CSV_Multiline.pm',
 	AUTHOR         => 'Jason Long <jlong@messiah.edu>',
